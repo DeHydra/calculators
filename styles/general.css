@@ -1,0 +1,30 @@
+.flex-r{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-c{
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper{
+    margin:auto;
+    width: 1000px;
+}
+
+.align-sb{
+    align-items: space-between;
+}
+
+.align-c{
+    align-items: center;
+}
+
+.justify-sb{
+    justify-content: space-between;
+}
+
+.justify-c{
+    justify-content: center;
+}
